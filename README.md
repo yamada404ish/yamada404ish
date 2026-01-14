@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning React and modern front-end web development by building projects, following tutorials, and experimenting on my own. I enjoy learning new technologies, improving my skills step by step, and connecting with others who share the same interests in tech.
+I’m currently learning React and modern front-end development by building projects, following tutorials, and experimenting on my own. I enjoy learning new technologies, improving my skills step by step, and connecting with others who share the same interests in tech.
 
 
 ## 🌐 Socials:
@@ -11,11 +11,5 @@ I’m currently learning React and modern front-end web development by building 
 ![](https://github-readme-stats.vercel.app/api?username=yamada404ish&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yamada404ish&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yamada404ish&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yamada404ish&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=yamada404ish&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
