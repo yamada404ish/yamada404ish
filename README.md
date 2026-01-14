@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning React and modern front-end development by building projects, following tutorials, and experimenting on my own. I enjoy learning new technologies, improving my skills step by step, and connecting with others who share the same interests in tech.
+I’m currently learning React and modern front-end web development by building projects, following tutorials, and experimenting on my own. I enjoy learning new technologies, improving my skills step by step, and connecting with others who share the same interests in tech.
 
 
 ## 🌐 Socials:
